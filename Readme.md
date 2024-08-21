@@ -17,6 +17,12 @@
 - [How to Run the Benchmark](#how-to-run-the-benchmark)
 - [License](#license)
 
+**PLANS**
+[ ] Make an extensive GUI
+[ ] Make test set adequate with proper RAM allocation
+[ ] Maybe rewrite (and learn lol) c
+[ ] Make a simple web server with leaderboard a.k.a. geekbench stuff
+
 ## Introduction
 
 The System Benchmarking Tool is a Go-based program designed to assess the performance of your computer by running several computationally intensive tasks. The tool tests the system's capabilities in both single-core and multi-core environments, measuring execution time and memory usage for various algorithms.
