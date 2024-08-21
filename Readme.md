@@ -19,8 +19,11 @@
 
 **PLANS**
 [ ] Make an extensive GUI
+
 [ ] Make test set adequate with proper RAM allocation
+
 [ ] Maybe rewrite (and learn lol) c
+
 [ ] Make a simple web server with leaderboard a.k.a. geekbench stuff
 
 ## Introduction
