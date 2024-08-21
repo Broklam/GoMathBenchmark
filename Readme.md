@@ -95,3 +95,9 @@ This allows for easy comparison of performance over time or across different sys
    OR 
 
    Run executable according to your system from distros
+
+   **Screenshots**<img width="682" alt="Screen Shot 2024-08-21 at 15 56 00" src="https://github.com/user-attachments/assets/87b2944d-72b2-4afa-9ad3-1a5b75906cf8">
+   <img width="713" alt="Screen Shot 2024-08-21 at 15 56 36" src="https://github.com/user-attachments/assets/3d077993-5a5e-4dff-872e-ca040d3c285c">
+
+
+
